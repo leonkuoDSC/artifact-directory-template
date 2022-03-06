@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Traffic Policing And Its Relationship With Income>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Policing is a rather mixed affair hinging on a number of different factors with some encounters being relatively short and simple while others are more tense and hostile. There are many different reasons for why police make the decisions that they make, either rightfully or wrongfully, many of which aren't directly observable or easily determined within police data. Some of these factors may include suspicion of drivers doing illegal activity, misdemeanors, or having unconscious bias against individuals that appear to fit their mental description of what a criminal may look like. While racial prejudice is one of the more striking factors to point at when considering how or why encounters between individuals and police officers go differently, decisions seemly motivated by racial bias may potentially be actually due to social class or perceived social class of the individual rather than their race.>
